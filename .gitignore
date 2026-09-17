@@ -1,0 +1,5 @@
+.env            #API 키, 비밀번호 
+*.pt *.onnx     #모델 가중치
+__pycache__/    #실행 부산물
+.DS_Store       #맥북에서 생성되는 파일
+node_modules/    #설치한 패키지
